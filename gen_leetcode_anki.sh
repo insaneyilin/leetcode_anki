@@ -7,3 +7,4 @@ rm -f temp/README.md
 echo "generating leetcode_mdanki.apkg ..."
 mdanki temp leetcode_mdanki.apkg
 rm -r temp
+
